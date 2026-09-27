@@ -376,7 +376,7 @@ The goal is to make deployment failures easier to understand without requiring d
 ## Contributors
 
 - **Contributor Name** — [@TalhahTahir](https://github.com/TalhahTahir)
-- **Contributor Name** — [@/DuaShaikh11](https://github.com/DuaShaikh11)
+- **Contributor Name** — [@DuaShaikh11](https://github.com/DuaShaikh11)
 - **Contributor Name** — [@rida-maheen](https://github.com/rida-maheen)
 
 ---
